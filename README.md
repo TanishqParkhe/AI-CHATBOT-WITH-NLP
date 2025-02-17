@@ -44,3 +44,5 @@ Conclusion
 This custom-built chatbot represents an interesting implementation of natural language processing (NLP) using Python. By customizing key components like response patterns, variable names, and class methods, the chatbot avoids the limitations of typical chatbot templates and offers a more personalized user experience. While the functionality of the chatbot remains simple, its modular and extendable nature means it can be easily customized and expanded for more advanced applications. For anyone looking to build their own conversational agents, this example offers a solid foundation for developing both unique and interactive chatbots using Python and NLTK.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5a6c3b86-5557-4d30-836c-8b00b50398ca)
